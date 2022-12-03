@@ -21,6 +21,8 @@ I dabble in a bit of coding, but only for a bit of fun, and so that I don't look
   </table>
   
 - 🔭 I’m currently working on ...
+  - Google Cloud Landing Zone creation using Terraform.
+  - Data pipelines using Google Cloud
   - Building walkthroughs for Advent of Code challenges, in Python.
   - Building documentation sites using Jekyll and Hugo.
 
