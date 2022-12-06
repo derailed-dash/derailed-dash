@@ -26,6 +26,11 @@ I dabble in a bit of coding, but only for a bit of fun, and so that I don't look
   - Building walkthroughs for Advent of Code challenges, in Python.
   - Building documentation sites using Jekyll and Hugo.
 
+- 🔗
+  - [My posts on Medium](https://medium.com/@derailed.dash)
+  - [My blog site](https://content.just2good.co.uk/)
+  - [My Advent of Code Walkthroughs in Python](https://aoc.just2good.co.uk/)
+
 - 💬 Ask me about ...
   - Anything at all!
 
