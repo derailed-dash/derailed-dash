@@ -28,7 +28,6 @@ I dabble in a bit of coding, but only for a bit of fun, and so that I don't look
 
 - 🔗 Some of my content in other places ...
   - [My posts on Medium](https://medium.com/@derailed.dash)
-  - [My blog site](https://content.just2good.co.uk/)
   - [My Advent of Code Walkthroughs in Python](https://aoc.just2good.co.uk/)
 
 - 💬 Ask me about ...
