@@ -21,6 +21,7 @@ I dabble in a bit of coding, but only for a bit of fun, and so that I don't look
   </table>
   
 - 🔭 I’m currently working on ...
+  - Playing with Streamlit!
   - Creating Python walkthroughs for adopting generative AI in the Google Cloud ecosystem.
   - Creating an end-to-end guide for adopting (and migrating to) Google Cloud; covering strategy, design, cloud principles, organisational upskilling, SRE, landing zones, Cloud Centre-of-Excellence, migration tooling, and Fin-Ops.
   - Google Cloud Landing Zone creation using Terraform.
