@@ -4,7 +4,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=derailed-dash)
 
 My name is Dazbo. To earn a living, I work as an Enterprise Infrastructure and Cloud Architect. 
-I dabble in a bit of coding, but only for a bit of fun, and so that I don't look like a complete idiot when talking to coders and engineers!
+I dabble in a bit of coding, but only for fun, and so that I don't look like a complete idiot when talking to coders and engineers!
 
 - 🌱 I’m currently building my knowledge and skills with ... 
   <table>
