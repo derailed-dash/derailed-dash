@@ -7,7 +7,7 @@ My name is Dazbo. To earn a living, I work as an Enterprise Cloud Architect. **I
 I dabble in a bit of coding, but only for fun, and so that I don't look like a complete idiot when talking to coders and engineers!
  
 - 🔭 I’m currently...
-  - Enhancing my [Rickbot](https://github.com/derailed-dash/rickbot-adk) multipersonality chatbot, built using Google ADK and Gemini, and deployed to Google Cloud Run. Play with it [here](rickbot.co.uk).
+  - Enhancing my [Rickbot](https://github.com/derailed-dash/rickbot-adk) multipersonality chatbot, built using Google ADK and Gemini, and deployed to Google Cloud Run. Play with it [here](https://rickbot.co.uk).
   - Loving [Gemini CLI](https://medium.com/google-cloud/give-gemini-cli-the-ability-to-generate-images-and-video-work-with-github-repos-and-use-other-482172571f99)!
   - Doing so many cool things with [NotebookLM](https://medium.com/google-cloud/notebooklm-is-googles-insanely-cool-personal-ai-research-assistant-a2a36186f683)
   - Enjoying building apps with Streamlit.
