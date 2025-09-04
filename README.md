@@ -31,5 +31,4 @@ I dabble in a bit of coding, but only for fun, and so that I don't look like a c
 
 ### Some GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=derailed-dash&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=derailed-dash&layout=compact&theme=dark"/>
