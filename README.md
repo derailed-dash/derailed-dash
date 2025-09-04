@@ -5,21 +5,7 @@
 
 My name is Dazbo. To earn a living, I work as an Enterprise Cloud Architect. **I love all things Google Cloud!** 
 I dabble in a bit of coding, but only for fun, and so that I don't look like a complete idiot when talking to coders and engineers!
-
-- 🌱 I’m currently building my knowledge and skills with ... 
-  <table>
-    <tbody>
-        <tr>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/></td>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></td>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></td>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/></td>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
-            <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/></td>
-        </tr>
-    </tbody>
-  </table>
-  
+ 
 - 🔭 I’m currently...
   - Enhancing my [Rickbot](https://github.com/derailed-dash/rickbot-adk) multipersonality chatbot, built using Google ADK and Gemini, and deployed to Google Cloud Run. Play with it [here](rickbot.co.uk).
   - Loving [Gemini CLI](https://medium.com/google-cloud/give-gemini-cli-the-ability-to-generate-images-and-video-work-with-github-repos-and-use-other-482172571f99)!
