@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Dazbo! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derailed-dash@gmail.com)](mailto:derailed-dash@gmail.com) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=derailed-dash)
 
-My name is Dazbo. To earn a living, I work as an Enterprise Cloud Architect. **I love all things Google Cloud!** 
+To earn a living, I work as an Enterprise Cloud Architect. **I love all things Google Cloud!** 
 I dabble in a bit of coding so I don't look like a complete idiot when talking to real coders!
  
 - 🔭 I’m currently...
@@ -28,6 +28,3 @@ I dabble in a bit of coding so I don't look like a complete idiot when talking t
   - Advent of Code
   - Anything at all!
 
-### Some GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=derailed-dash&layout=compact&theme=dark"/>
