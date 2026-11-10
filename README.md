@@ -18,7 +18,7 @@ I dabble in a bit of coding so I don't look like a complete idiot when talking t
 
 - 🔗 Some of my content in other places ...
   - [My portfolio site](https://darrenlester.net)
-  - [My posts on Medium](https://medium.com/@derailed.dash)
+  - [My posts on Medium](https://medium.com/@dazbo)
   - [My Advent of Code Walkthroughs in Python](https://aoc.just2good.co.uk/)
 
 - 💬 Ask me about ...
