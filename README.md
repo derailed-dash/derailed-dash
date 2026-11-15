@@ -1,18 +1,16 @@
 <div align="center">
 
-# Hi, I'm Darren Lester (Dazbo) 👋
+![Darren Lester (Dazbo) — Google Cloud & AI Chief Technologist](assets/banner.jpg)
 
-**Google Cloud & AI Chief Technologist @ EPAM Systems** · **Google Cloud Ambassador** · **Google Developer Expert (GDE)**
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-darrenlester.net-6200EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darrenlester.net/)
-[![Medium](https://img.shields.io/badge/Medium-@dazbo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dazbo)
-[![Dev.to](https://img.shields.io/badge/DEV.to-dazbo-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dazbo)
-[![YouTube](https://img.shields.io/badge/YouTube-@deraileddash-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@deraileddash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darren_Lester-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-lester-architect/)
-[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=for-the-badge)](https://sessionize.com/dazbo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-darrenlester.net-6200EE?style=for-the-badge&labelColor=1e242c&logo=googlechrome&logoColor=white)](https://darrenlester.net/)&nbsp;&nbsp;[![Medium](https://img.shields.io/badge/Medium-@dazbo-00AB6C?style=for-the-badge&labelColor=1e242c&logo=medium&logoColor=white)](https://medium.com/@dazbo)&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/DEV.to-dazbo-3B49DF?style=for-the-badge&labelColor=1e242c&logo=devdotto&logoColor=white)](https://dev.to/dazbo)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-@deraileddash-FF0000?style=for-the-badge&labelColor=1e242c&logo=youtube&logoColor=white)](https://www.youtube.com/@deraileddash)
 
-![Profile Views](https://komarev.com/ghpvc/?username=derailed-dash&color=6200ee&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/derailed-dash?style=flat-square&color=03DAC6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darren_Lester-0A66C2?style=for-the-badge&labelColor=1e242c&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-lester-architect/)&nbsp;&nbsp;[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-03DAC6?style=for-the-badge&labelColor=1e242c&logoColor=white)](https://sessionize.com/dazbo/)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=derailed-dash&color=6200ee&style=flat-square)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/derailed-dash?style=flat-square&color=03DAC6)
 
 </div>
 
@@ -28,6 +26,16 @@ I help organisations design and adopt **Google Cloud** and **Agentic AI** at ent
 
 ---
 
+### 🛠️ Core Stack
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)&nbsp;&nbsp;![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;&nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
 ### ⭐ Featured Repositories
 
 | Project | What It Does | Stack / Highlights |
@@ -40,6 +48,16 @@ I help organisations design and adopt **Google Cloud** and **Agentic AI** at ent
 | **[harness-engineering-demo](https://github.com/derailed-dash/harness-engineering-demo)** | Interactive workbench comparing unharnessed vibe coding vs autonomous harnessed agent loops ([Live Demo](https://harness-engineering.darrenlester.net/)) | Google ADK, Gemini, FastAPI |
 | **[dazbo-portfolio](https://github.com/derailed-dash/dazbo-portfolio)** | My portfolio site & Gemini ADK assistant powering [darrenlester.net](https://darrenlester.net/) | Python, FastAPI, React, Firestore |
 | **[rickbot-adk](https://github.com/derailed-dash/rickbot-adk)** | Multi-personality chatbot built with Google ADK and Gemini on Cloud Run ([Live Demo](https://rickbot.co.uk)) | Google ADK, Gemini, Cloud Run |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=derailed-dash&show_icons=true&bg_color=0d1117&title_color=bb86fc&icon_color=03dac6&text_color=e6edf3&border_color=6200ee&hide_border=false" alt="Dazbo's GitHub Stats" />&nbsp;&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derailed-dash&layout=compact&bg_color=0d1117&title_color=bb86fc&text_color=e6edf3&border_color=6200ee&hide_border=false" alt="Top Languages" />
+
+</div>
 
 ---
 
