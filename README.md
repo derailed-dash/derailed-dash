@@ -56,4 +56,4 @@ I help organisations design and adopt **Google Cloud** and **Agentic AI** at ent
 - 🌐 **Portfolio & AI Assistant**: [darrenlester.net](https://darrenlester.net/)
 - 🐍 **Python & Advent of Code Walkthroughs**: [aoc.just2good.co.uk](https://aoc.just2good.co.uk/)
 - ☁️ **GCP Challenge Labs**: [derailed-dash.github.io/gcp-challenge-labs](https://derailed-dash.github.io/gcp-challenge-labs/)
-- 📫 **Email**: [derailed-dash@gmail.com](mailto:derailed-dash@gmail.com)
+- 📫 **Email**: [real.dazbo@gmail.com](mailto:real.dazbo@gmail.com)
