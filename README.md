@@ -51,16 +51,6 @@ I help organisations design and adopt **Google Cloud** and **Agentic AI** at ent
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=derailed-dash&show_icons=true&bg_color=0d1117&title_color=bb86fc&icon_color=03dac6&text_color=e6edf3&border_color=6200ee&hide_border=false" alt="Dazbo's GitHub Stats" />&nbsp;&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derailed-dash&layout=compact&bg_color=0d1117&title_color=bb86fc&text_color=e6edf3&border_color=6200ee&hide_border=false" alt="Top Languages" />
-
-</div>
-
----
-
 ### 🔗 Elsewhere
 
 - 🌐 **Portfolio & AI Assistant**: [darrenlester.net](https://darrenlester.net/)
