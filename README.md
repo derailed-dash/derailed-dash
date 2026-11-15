@@ -4,9 +4,9 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-darrenlester.net-6200EE?style=for-the-badge&labelColor=1e242c&logo=googlechrome&logoColor=white)](https://darrenlester.net/)&nbsp;&nbsp;[![Medium](https://img.shields.io/badge/Medium-@dazbo-00AB6C?style=for-the-badge&labelColor=1e242c&logo=medium&logoColor=white)](https://medium.com/@dazbo)&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/DEV.to-dazbo-3B49DF?style=for-the-badge&labelColor=1e242c&logo=devdotto&logoColor=white)](https://dev.to/dazbo)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-@deraileddash-FF0000?style=for-the-badge&labelColor=1e242c&logo=youtube&logoColor=white)](https://www.youtube.com/@deraileddash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-darrenlester.net-6200EE?style=for-the-badge&labelColor=1e242c&logo=googlechrome&logoColor=white)](https://darrenlester.net/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darren_Lester-0A66C2?style=for-the-badge&labelColor=1e242c&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-lester-architect/)&nbsp;&nbsp;[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-03DAC6?style=for-the-badge&labelColor=1e242c&logoColor=white)](https://sessionize.com/dazbo/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darren_Lester-0A66C2?style=for-the-badge&labelColor=1e242c&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-lester-architect/)&nbsp;&nbsp;[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-03DAC6?style=for-the-badge&labelColor=1e242c&logoColor=white)](https://sessionize.com/dazbo/)
+[![Medium](https://img.shields.io/badge/Medium-@dazbo-00AB6C?style=for-the-badge&labelColor=1e242c&logo=medium&logoColor=white)](https://medium.com/@dazbo)&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/DEV.to-dazbo-3B49DF?style=for-the-badge&labelColor=1e242c&logo=devdotto&logoColor=white)](https://dev.to/dazbo)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-@deraileddash-FF0000?style=for-the-badge&labelColor=1e242c&logo=youtube&logoColor=white)](https://www.youtube.com/@deraileddash)
 
 <br />
 
