@@ -37,16 +37,16 @@ Hi folks! I'm Darren (aka **Dazbo**). By day I'm a **Google Cloud & AI Chief Tec
 
 ### ⭐ Featured Repositories
 
-| Project | What It Does | Stack / Highlights |
-| :--- | :--- | :--- |
-| **[dazbo-agent-skills](https://github.com/derailed-dash/dazbo-agent-skills)** | Reusable agentic skills for AI coding assistants (TDD, Spec-Driven Development, Docs Maintenance, Tiered Rubric Loops) | Agent Skills, Markdown, Python |
-| **[gcp-billing-killswitch](https://github.com/derailed-dash/gcp-billing-killswitch)** | Automated GCP budget-alert billing killswitch that detaches billing to prevent runaway cloud spend | GCP, Cloud Functions, FinOps |
-| **[gemini-review-action](https://github.com/derailed-dash/gemini-review-action)** | Automated PR code review & issue triage GitHub Action with full codebase context powered by Gemini | GitHub Actions, Gemini API |
-| **[agentic-ui-testing](https://github.com/derailed-dash/agentic-ui-testing)** | Google Developer Codelab for automated UI testing with Gemini CLI, BrowserMCP, and Playwright | Gemini CLI, MCP, Playwright |
-| **[smart-gcp-finops](https://github.com/derailed-dash/smart-gcp-finops)** | Agentic FinOps solution for GCP practitioners to analyse and optimise spend across an organisation | Google ADK, A2UI, GCP |
-| **[harness-engineering-demo](https://github.com/derailed-dash/harness-engineering-demo)** | Interactive workbench comparing unharnessed vibe coding vs autonomous harnessed agent loops ([Live Demo](https://harness-engineering.darrenlester.net/)) | Google ADK, Gemini, FastAPI |
-| **[dazbo-portfolio](https://github.com/derailed-dash/dazbo-portfolio)** | My portfolio site & Gemini ADK assistant powering [darrenlester.net](https://darrenlester.net/) | Python, FastAPI, React, Firestore |
-| **[rickbot-adk](https://github.com/derailed-dash/rickbot-adk)** | Multi-personality chatbot built with Google ADK and Gemini on Cloud Run ([Live Demo](https://rickbot.co.uk)) | Google ADK, Gemini, Cloud Run |
+| | Project | What It Does | Stack / Highlights |
+| :---: | :--- | :--- | :--- |
+| <img src="assets/thumbs/dazbo-agent-skills.jpg" width="64" height="64" alt="dazbo-agent-skills" /> | **[dazbo-agent-skills](https://github.com/derailed-dash/dazbo-agent-skills)** | Reusable agentic skills for AI coding assistants (TDD, Spec-Driven Development, Docs Maintenance, Tiered Rubric Loops) | Agent Skills, Markdown, Python |
+| <img src="assets/thumbs/gcp-billing-killswitch.jpg" width="64" height="64" alt="gcp-billing-killswitch" /> | **[gcp-billing-killswitch](https://github.com/derailed-dash/gcp-billing-killswitch)** | Automated GCP budget-alert billing killswitch that detaches billing to prevent runaway cloud spend | GCP, Cloud Functions, FinOps |
+| <img src="assets/thumbs/gemini-review-action.jpg" width="64" height="64" alt="gemini-review-action" /> | **[gemini-review-action](https://github.com/derailed-dash/gemini-review-action)** | Automated PR code review & issue triage GitHub Action with full codebase context powered by Gemini | GitHub Actions, Gemini API |
+| <img src="assets/thumbs/agentic-ui-testing.jpg" width="64" height="64" alt="agentic-ui-testing" /> | **[agentic-ui-testing](https://github.com/derailed-dash/agentic-ui-testing)** | Google Developer Codelab for automated UI testing with AI agents, BrowserMCP, and Playwright | AI Agents, MCP, Playwright |
+| <img src="assets/thumbs/smart-gcp-finops.jpg" width="64" height="64" alt="smart-gcp-finops" /> | **[smart-gcp-finops](https://github.com/derailed-dash/smart-gcp-finops)** | Agentic FinOps solution for GCP practitioners to analyse and optimise spend across an organisation | Google ADK, A2UI, GCP |
+| <img src="assets/thumbs/harness-engineering-demo.jpg" width="64" height="64" alt="harness-engineering-demo" /> | **[harness-engineering-demo](https://github.com/derailed-dash/harness-engineering-demo)** | Interactive workbench comparing unharnessed vibe coding vs autonomous harnessed agent loops ([Live Demo](https://harness-engineering.darrenlester.net/)) | Google ADK, Gemini, FastAPI |
+| <img src="assets/thumbs/dazbo-portfolio.jpg" width="64" height="64" alt="dazbo-portfolio" /> | **[dazbo-portfolio](https://github.com/derailed-dash/dazbo-portfolio)** | My portfolio site & Gemini ADK assistant powering [darrenlester.net](https://darrenlester.net/) | Python, FastAPI, React, Firestore |
+| <img src="assets/thumbs/rickbot-adk.jpg" width="64" height="64" alt="rickbot-adk" /> | **[rickbot-adk](https://github.com/derailed-dash/rickbot-adk)** | Multi-personality chatbot built with Google ADK and Gemini on Cloud Run ([Live Demo](https://rickbot.co.uk)) | Google ADK, Gemini, Cloud Run |
 
 ---
 
