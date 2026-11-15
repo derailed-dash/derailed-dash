@@ -16,13 +16,12 @@
 
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-I help organisations design and adopt **Google Cloud** and **Agentic AI** at enterprise scale — from cloud strategy, landing zones, and FinOps to autonomous coding harnesses, MCP tooling, and production Gemini/ADK agents.
+Hi folks! I'm Darren (aka **Dazbo**). By day I'm a **Google Cloud & AI Chief Technologist**, **Google Developer Expert (GDE)**, and **Google Cloud Ambassador**. Outside of that, I just love tinkering with Google products and AI, learning new things, and sharing the journey.
 
-- 🔭 **Current Focus**: Harness Engineering, Agent Skills, Google Agent Development Kit (ADK), Gemini CLI / Antigravity workflows, and Google Cloud Architecture.
-- 🎤 **Speaking & Community**: Google Cloud Next '26 Speaker & GDE Studio Creator, Google Cloud Ambassador (~40 globally), and Partner All-Star.
-- 📝 **Writing**: Deep-dive tutorials and architectural guides on [darrenlester.net/blogs](https://darrenlester.net/blogs), [Medium](https://medium.com/@dazbo), and [Dev.to](https://dev.to/dazbo).
+- 🧪 **What I'm playing with**: **Gemini**, **Google Antigravity**, **ADK**, **Harness Engineering**, **MCP**, and **Google Cloud** — building autonomous agentic workflows, FinOps tools, and coding harnesses.
+- 🎤 **Speaker, Tech Blogger & Creator**: Sharing what I learn through conference talks (Google Cloud Next '26 Speaker & GDE Studio Creator), videos, and deep-dive walkthroughs on [darrenlester.net/blogs](https://darrenlester.net/blogs), [Medium](https://medium.com/@dazbo), and [Dev.to](https://dev.to/dazbo).
 
 ---
 
